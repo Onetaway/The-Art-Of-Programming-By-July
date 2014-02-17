@@ -1,5 +1,5 @@
 <?php
-/*
+/*test
 /*
 * Chapter One - Left Rotating String
 * @author by howaichun
