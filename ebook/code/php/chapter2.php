@@ -1,5 +1,5 @@
 <?php
-/*test
+/*test Onetaway
 /*
 * Chapter One - Left Rotating String
 * @author by howaichun
